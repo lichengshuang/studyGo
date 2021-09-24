@@ -1,0 +1,590 @@
+{
+    "第1章 介绍": {
+        "name": "第1章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067337&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/V51B6ZLy_2751638569_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第1章 介绍.mp4"
+    },
+    "1.1 Go语言的发展历史": {
+        "name": "1.1 Go语言的发展历史",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067339&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/fSt6aYcI_2751638659_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//1.1 Go语言的发展历史.mp4"
+    },
+    "1.2 Go语言的特性": {
+        "name": "1.2 Go语言的特性",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067540&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/wrxVyQqB_2753281927_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//1.2 Go语言的特性.mp4"
+    },
+    "1.3 安装和配置Golang": {
+        "name": "1.3 安装和配置Golang",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067541&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Q7B3kctI_2753290362_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//1.3 安装和配置Golang.mp4"
+    },
+    "1.4 Golang安装和配置": {
+        "name": "1.4 Golang安装和配置",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067343&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/8ITC0dtW_2751641877_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//1.4 Golang安装和配置.mp4"
+    },
+    "1.5 Go语言程序结构及编码规范": {
+        "name": "1.5 Go语言程序结构及编码规范",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067542&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/xWoDP88a_2753291284_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//1.5 Go语言程序结构及编码规范.mp4"
+    },
+    "1.6 本章小结": {
+        "name": "1.6 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067338&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/uDcbOipL_2751639623_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//1.6 本章小结.mp4"
+    },
+    "第2章 介绍": {
+        "name": "第2章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067347&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/RbzeDRj9_2751656552_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第2章 介绍.mp4"
+    },
+    "2.1 变量": {
+        "name": "2.1 变量",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067351&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/54QKkjUZ_2751654799_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//2.1 变量.mp4"
+    },
+    "2.2 数据类型": {
+        "name": "2.2 数据类型",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067345&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/DRQMqZ3L_2751656515_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//2.2 数据类型.mp4"
+    },
+    "2.3 打印格式化": {
+        "name": "2.3 打印格式化",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067349&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/RPaWhUJy_2751656661_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//2.3 打印格式化.mp4"
+    },
+    "2.4 数据类型转换": {
+        "name": "2.4 数据类型转换",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067348&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/GSzl0ZfJ_2751647955_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//2.4 数据类型转换.mp4"
+    },
+    "2.5 常量": {
+        "name": "2.5 常量",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067344&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/3kWJOHeb_2751657381_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//2.5 常量.mp4"
+    },
+    "2.6 类型别名与类型定义": {
+        "name": "2.6 类型别名与类型定义",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067350&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Rw6mlJG8_2751657199_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//2.6 类型别名与类型定义.mp4"
+    },
+    "2.7 Go语言的运算符": {
+        "name": "2.7 Go语言的运算符",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067352&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/48Op1WCR_2751669296_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//2.7 Go语言的运算符.mp4"
+    },
+    "2.8 运算符优先级": {
+        "name": "2.8 运算符优先级",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067346&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/OyO5qLNH_2751651501_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//2.8 运算符优先级.mp4"
+    },
+    "2.9 本章小结": {
+        "name": "2.9 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067353&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/M1ZiE8xx_2751651557_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//2.9 本章小结.mp4"
+    },
+    "第3章 介绍": {
+        "name": "第3章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067359&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/db88f4pW_2751656216_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第3章 介绍.mp4"
+    },
+    "3.1 流程控制概述": {
+        "name": "3.1 流程控制概述",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067356&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/R5cLXbVg_2751652412_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//3.1 流程控制概述.mp4"
+    },
+    "3.2 if条件判断语句": {
+        "name": "3.2 if条件判断语句",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067361&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Ir3azs9w_2751662239_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//3.2 if条件判断语句.mp4"
+    },
+    "3.3 if嵌套语句": {
+        "name": "3.3 if嵌套语句",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067357&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Sogt8ptv_2751653103_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//3.3 if嵌套语句.mp4"
+    },
+    "3.4 switch分支语句": {
+        "name": "3.4 switch分支语句",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067358&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/LdhApoxw_2751667098_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//3.4 switch分支语句.mp4"
+    },
+    "3.5 for循环语句": {
+        "name": "3.5 for循环语句",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067355&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/0QgQpGxi_2751661704_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//3.5 for循环语句.mp4"
+    },
+    "3.6 for嵌套循环结构": {
+        "name": "3.6 for嵌套循环结构",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067360&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/NjqXxL03_2751660986_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//3.6 for嵌套循环结构.mp4"
+    },
+    "3.7 循环控制语句": {
+        "name": "3.7 循环控制语句",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067362&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Fzf8MZXJ_2751656503_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//3.7 循环控制语句.mp4"
+    },
+    "3.8 本章小结": {
+        "name": "3.8 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067354&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/1SdyfvNF_2751651917_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//3.8 本章小结.mp4"
+    },
+    "第4章 介绍": {
+        "name": "第4章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067367&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/gzDqKjqG_2751650977_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第4章 介绍.mp4"
+    },
+    "4.1 函数": {
+        "name": "4.1 函数",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067365&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/DpdbbNMy_2751671375_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//4.1 函数.mp4"
+    },
+    "4.2 指针": {
+        "name": "4.2 指针",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067363&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/pnm71Qe7_2751663084_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//4.2 指针.mp4"
+    },
+    "4.3 函数的参数传递": {
+        "name": "4.3 函数的参数传递",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067364&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/i5sBYbwd_2751657933_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//4.3 函数的参数传递.mp4"
+    },
+    "4.4 本章小结": {
+        "name": "4.4 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067366&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/k8vKNitM_2751660031_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//4.4 本章小结.mp4"
+    },
+    "第5章 介绍": {
+        "name": "第5章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067369&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/x6VYpUvJ_2751664390_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第5章 介绍.mp4"
+    },
+    "5.1 数组": {
+        "name": "5.1 数组",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067372&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/6Bq0oCs1_2751664729_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//5.1 数组.mp4"
+    },
+    "5.2 切片": {
+        "name": "5.2 切片",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067371&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/83SxwT31_2751667514_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//5.2 切片.mp4"
+    },
+    "5.3 map": {
+        "name": "5.3 map",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067370&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/p8RlOHZj_2751667332_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//5.3 map.mp4"
+    },
+    "5.4 本章小结": {
+        "name": "5.4 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067368&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/yd5Gcpi2_2751654089_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//5.4 本章小结.mp4"
+    },
+    "第6章 介绍": {
+        "name": "第6章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067377&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/vwgZT6rD_2751672225_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第6章 介绍.mp4"
+    },
+    "6.1 字符串处理包概述": {
+        "name": "6.1 字符串处理包概述",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067375&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/0Mm8jjTM_2751671684_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//6.1 字符串处理包概述.mp4"
+    },
+    "6.2 string包的字符串处理函数": {
+        "name": "6.2 string包的字符串处理函数",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067381&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/1P0qTY4t_2751658896_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//6.2 string包的字符串处理函数.mp4"
+    },
+    "6.3 strconv包的常用函数": {
+        "name": "6.3 strconv包的常用函数",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067382&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/nyjln9qI_2751672448_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//6.3 strconv包的常用函数.mp4"
+    },
+    "6.4 regexp正则表达包": {
+        "name": "6.4 regexp正则表达包",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067376&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/NtgS1l4Y_2751681273_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//6.4 regexp正则表达包.mp4"
+    },
+    "6.5 time包": {
+        "name": "6.5 time包",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067378&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Q0gWKLXH_2751672328_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//6.5 time包.mp4"
+    },
+    "6.6 math包": {
+        "name": "6.6 math包",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067379&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/z9as5pzz_2751674139_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//6.6 math包.mp4"
+    },
+    "6.7 随机数": {
+        "name": "6.7 随机数",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067373&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/iOQkRWkn_2751658825_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//6.7 随机数.mp4"
+    },
+    "6.8 键盘输入": {
+        "name": "6.8 键盘输入",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067380&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Wd4cob27_2751675029_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//6.8 键盘输入.mp4"
+    },
+    "6.9 本章小结": {
+        "name": "6.9 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067374&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/C35LdBWd_2751664889_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//6.9 本章小结.mp4"
+    },
+    "第7章 介绍": {
+        "name": "第7章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067387&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/CIpOFNJA_2751671963_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第7章 介绍.mp4"
+    },
+    "7.1 面向对象思想概述": {
+        "name": "7.1 面向对象思想概述",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067386&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/vIzCVVKt_2751697929_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//7.1 面向对象思想概述.mp4"
+    },
+    "7.2 结构体": {
+        "name": "7.2 结构体",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067385&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/4ibYMdb6_2751704059_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//7.2 结构体.mp4"
+    },
+    "7.3 方法": {
+        "name": "7.3 方法",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067383&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/vkvbEz9d_2751690665_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//7.3 方法.mp4"
+    },
+    "7.5 本章小结": {
+        "name": "7.5 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067384&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Ew2b5hWk_2751671848_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//7.5 本章小结.mp4"
+    },
+    "7.4 接口": {
+        "name": "7.4 接口",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067388&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/tsfftwje_2751687440_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//7.4 接口.mp4"
+    },
+    "第8章 介绍": {
+        "name": "第8章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067391&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Oa2Sermu_2751680274_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第8章 介绍.mp4"
+    },
+    "8.1 error": {
+        "name": "8.1 error",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067390&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/4E0KFrKz_2751692996_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//8.1 error.mp4"
+    },
+    "8.2 defer": {
+        "name": "8.2 defer",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067393&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/8Wds8pUw_2751725319_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//8.2 defer.mp4"
+    },
+    "8.3 panic和recover机制": {
+        "name": "8.3 panic和recover机制",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067389&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/yYZG2LuE_2751685357_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//8.3 panic和recover机制.mp4"
+    },
+    "8.4 本章小结": {
+        "name": "8.4 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067392&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/YidNUhSn_2751678410_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//8.4 本章小结.mp4"
+    },
+    "第9章 介绍": {
+        "name": "第9章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067400&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/XNoI49yT_2751673973_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第9章 介绍.mp4"
+    },
+    "9.1 文件信息": {
+        "name": "9.1 文件信息",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067395&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/RNZjaJWq_2751688307_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//9.1 文件信息.mp4"
+    },
+    "9.2 文件常规操作": {
+        "name": "9.2 文件常规操作",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067398&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/JnTtBK8O_2751701533_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//9.2 文件常规操作.mp4"
+    },
+    "9.3 读写文件及复制文件": {
+        "name": "9.3 读写文件及复制文件",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067394&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/xuVks8eC_2751704057_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//9.3 读写文件及复制文件.mp4"
+    },
+    "9.4 ioutil包": {
+        "name": "9.4 ioutil包",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067397&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/PWXibv7k_2751745203_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//9.4 ioutil包.mp4"
+    },
+    "9.5 bufio包": {
+        "name": "9.5 bufio包",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067399&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/8Kx9WpnF_2751707497_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//9.5 bufio包.mp4"
+    },
+    "9.6 本章小结": {
+        "name": "9.6 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067396&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/AIM2jwYM_2751719020_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//9.6 本章小结.mp4"
+    },
+    "第10章 介绍": {
+        "name": "第10章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067524&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/9joNs4do_2753201892_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第10章 介绍.mp4"
+    },
+    "10.1 HTTP概述": {
+        "name": "10.1 HTTP概述",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067519&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/BlZEkNOs_2753218765_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//10.1 HTTP概述.mp4"
+    },
+    "10.2 HTTP协议客户端实现": {
+        "name": "10.2 HTTP协议客户端实现",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067522&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/wPGiDy1c_2753212782_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//10.2 HTTP协议客户端实现.mp4"
+    },
+    "10.3 HTTP协议服务端实现": {
+        "name": "10.3 HTTP协议服务端实现",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067523&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/lQ1dGfi8_2753237550_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//10.3 HTTP协议服务端实现.mp4"
+    },
+    "10.4 Golang模版": {
+        "name": "10.4 Golang模版",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067521&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/KtWK7K6I_2753222220_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//10.4 Golang模版.mp4"
+    },
+    "10.5 JSON编码": {
+        "name": "10.5 JSON编码",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067518&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/73LgRJPL_2753227329_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//10.5 JSON编码.mp4"
+    },
+    "10.6 JSON解析": {
+        "name": "10.6 JSON解析",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067517&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/QAOhFLkN_2753221260_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//10.6 JSON解析.mp4"
+    },
+    "10.7 本章小结": {
+        "name": "10.7 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067520&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/WCZZwgle_2753214541_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//10.7 本章小结.mp4"
+    },
+    "第11章 介绍": {
+        "name": "第11章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067528&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/KoYGdwfz_2753219581_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第11章 介绍.mp4"
+    },
+    "11.1 数据库介绍": {
+        "name": "11.1 数据库介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067529&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/zRe2RTuj_2753224517_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//11.1 数据库介绍.mp4"
+    },
+    "11.2 MySQL数据库的使用": {
+        "name": "11.2 MySQL数据库的使用",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067531&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/EU6gLZUe_2753240910_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//11.2 MySQL数据库的使用.mp4"
+    },
+    "11.3 MySQL数据类型": {
+        "name": "11.3 MySQL数据类型",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067526&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/HQhiRTR4_2753228704_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//11.3 MySQL数据类型.mp4"
+    },
+    "11.4 SQL基础入门": {
+        "name": "11.4 SQL基础入门",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067525&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/4YQ3BHri_2753244084_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//11.4 SQL基础入门.mp4"
+    },
+    "11.5 Go程序操作MySQL数据库": {
+        "name": "11.5 Go程序操作MySQL数据库",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067527&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/hS41wdbo_2753235232_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//11.5 Go程序操作MySQL数据库.mp4"
+    },
+    "11.6 本章小结": {
+        "name": "11.6 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067530&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/cKXL3Bwp_2753222882_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//11.6 本章小结.mp4"
+    },
+    "第12章 介绍": {
+        "name": "第12章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067403&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/zyauzHMV_2751698859_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第12章 介绍.mp4"
+    },
+    "12.1 并发和并行": {
+        "name": "12.1 并发和并行",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067408&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/3MSIe0Id_2751703967_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//12.1 并发和并行.mp4"
+    },
+    "12.2 进行和线程": {
+        "name": "12.2 进行和线程",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067406&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/rY2ojgMf_2751713705_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//12.2 进行和线程.mp4"
+    },
+    "12.3 Goroutine": {
+        "name": "12.3 Goroutine",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067407&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/oHN5SXUC_2751678772_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//12.3 Goroutine.mp4"
+    },
+    "12.4 channel": {
+        "name": "12.4 channel",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067402&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/7dJqtzaB_2751757972_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//12.4 channel.mp4"
+    },
+    "12.5 time包中与channel相关的函数": {
+        "name": "12.5 time包中与channel相关的函数",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067404&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/OyFUgoeP_2751724987_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//12.5 time包中与channel相关的函数.mp4"
+    },
+    "12.6 select分支语句": {
+        "name": "12.6 select分支语句",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067405&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/poofy0v1_2751690160_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//12.6 select分支语句.mp4"
+    },
+    "12.7 sync包": {
+        "name": "12.7 sync包",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067409&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/mZyKBPN6_2751712107_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//12.7 sync包.mp4"
+    },
+    "第13章 介绍": {
+        "name": "第13章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067411&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/cyI3PZoK_2751693637_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第13章 介绍.mp4"
+    },
+    "13.1 Hash算法": {
+        "name": "13.1 Hash算法",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067417&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/VJ1Hsbaz_2751702837_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//13.1 Hash算法.mp4"
+    },
+    "13.2 对称加密算法": {
+        "name": "13.2 对称加密算法",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067415&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/a2JGcGsF_2751696754_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//13.2 对称加密算法.mp4"
+    },
+    "13.3 非对称加密算法": {
+        "name": "13.3 非对称加密算法",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067414&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Ol80qdYt_2751749281_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//13.3 非对称加密算法.mp4"
+    },
+    "13.4 椭圆曲线加密算法和椭圆曲线数字签名算法": {
+        "name": "13.4 椭圆曲线加密算法和椭圆曲线数字签名算法",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067413&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/GhkNfwOx_2751703651_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//13.4 椭圆曲线加密算法和椭圆曲线数字签名算法.mp4"
+    },
+    "13.5 字符编码与解码": {
+        "name": "13.5 字符编码与解码",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067416&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/s7I16S4W_2751707116_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//13.5 字符编码与解码.mp4"
+    },
+    "第13章总结": {
+        "name": "第13章总结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067412&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Z9Xlp7KB_2751689204_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第13章总结.mp4"
+    },
+    "第14章 介绍": {
+        "name": "第14章 介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067537&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/cevcqqIO_2753247259_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//第14章 介绍.mp4"
+    },
+    "14.2 Elm后台管理平面项目介绍": {
+        "name": "14.2 Elm后台管理平面项目介绍",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067533&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/Qi2aRV5F_2753242936_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//14.2 Elm后台管理平面项目介绍.mp4"
+    },
+    "14.3 数据库配置及ORM映射": {
+        "name": "14.3 数据库配置及ORM映射",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067535&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/DBFVBVuX_2753328171_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//14.3 数据库配置及ORM映射.mp4"
+    },
+    "14.6 本章小结": {
+        "name": "14.6 本章小结",
+        "url": "http://www.proedu.com.cn/web/shareVideo/index.action?id=1067539&ajax=1",
+        "mp4url": "http://vod0vwkapu4.vod.126.net/vod0vwkapu4/RwnMidLL_2753272964_shd.mp4",
+        "localpath": "/export/lichengshuang/studyGo/mp4//14.6 本章小结.mp4"
+    }
+}
