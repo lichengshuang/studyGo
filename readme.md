@@ -38,7 +38,7 @@ scrapvedio
 - [4.2 指针](http://www.proedu.com.cn/web/shareVideo/index.action?id=1067363&ajax=1)
 - [4.3 函数的参数传递](http://www.proedu.com.cn/web/shareVideo/index.action?id=1067364&ajax=1)
 - [4.4 本章小结](http://www.proedu.com.cn/web/shareVideo/index.action?id=1067366&ajax=1)
-- [第5章 介绍](http://www.proedu.com.cn/web/shareVideo/index.action?id=1067369&ajax=1)
+## [第5章 介绍](http://www.proedu.com.cn/web/shareVideo/index.action?id=1067369&ajax=1)
 - [5.1 数组](http://www.proedu.com.cn/web/shareVideo/index.action?id=1067372&ajax=1)
 - [5.2 切片](http://www.proedu.com.cn/web/shareVideo/index.action?id=1067371&ajax=1)
 - [5.3 map](http://www.proedu.com.cn/web/shareVideo/index.action?id=1067370&ajax=1)
